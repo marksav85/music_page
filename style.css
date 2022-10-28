@@ -81,4 +81,6 @@
   of the icon to pointer */
   #icon {
     cursor: pointer;
+    height: 50px;
+    width: 50px;
   }
