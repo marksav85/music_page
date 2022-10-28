@@ -10,8 +10,7 @@
   .container {
     height: 100vh;
     width: 100%;
-    background-image: url(
-'');
+    background-image: url('music-background1.jpg');
 
     /* Image used: */
     background-size: cover;
@@ -58,7 +57,7 @@
   in the left-col */
   .left-col h1 {
     font-size: 50px;
-    color: crimson;
+    color: white;
   }
 
   /* Styling the right-col */
