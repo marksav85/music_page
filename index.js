@@ -9,14 +9,13 @@ icon.onclick = function() {
     // If paused then play the
     // music and change the image
     mysound.play();
-    icon.src =
-;
-  } else {
+    icon.src = 'playbutton.png';
+  }
+  else {
 
     // If playing then pause the
     // music and change the image
     mysound.pause();
-    icon.src =
-;
+    icon.src = 'pausebutton.png';
   }
 }
